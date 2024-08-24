@@ -3,7 +3,7 @@
 3. Go into the project <cd pycentric>
 4. Run <composer install>
 5. Prepare env file <cp .env.example .env>
-6. In the env file adjust the variables according tp your database
+6. In the env file adjust the variables according to your database
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
