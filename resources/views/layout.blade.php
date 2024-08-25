@@ -37,7 +37,7 @@
                 <div class="container-fluid mobile-font-size">
                     <div class="row mb-4 py-2" style="background-color: white;">
                         <div class="col-8">
-                            <img class="social-icon" src="{{ asset('images/logo.png') }}" alt="Twitter Image" style="width: 40px; height: 40px; object-fit: cover; border: .1px solid white; border-radius: 50%;">
+                            <img class="social-icon" src="{{ asset('images/logo.png') }}" alt="Twitter Image" style="width: 90px; height: 60px; object-fit: cover; border: .1px solid white; border-radius: 50%;">
                         </div>
                         <div class="col-4 text-right pr-4">
 
