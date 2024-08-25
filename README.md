@@ -1,3 +1,5 @@
+On this project I used ajax datatables to display product list items
+
 1. Make sure you have latest php and laravel version installed.
 2. Clone the project using <git clone https://github.com/TerenceManyike/pycentric.git>
 3. Go into the project <cd pycentric>
