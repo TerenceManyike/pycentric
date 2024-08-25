@@ -6,8 +6,8 @@
         {{ __('Product Details') }}
     </div>
 
-    <div class="card-body">
-        <div class="row p-2" style="border: 1px solid black;">
+    <div class="card-body mobile-font-size">
+        <div class="row p-2" style="border: .1px solid black; border-radius: 10px;">
             <div class="col-2 text-center">
                 {{ $product->name }}
             </div>

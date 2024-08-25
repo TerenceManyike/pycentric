@@ -6,7 +6,7 @@
         {{ __('Create Product') }}
     </div>
 
-    <div class="card-body">
+    <div class="card-body mobile-font-size">
         <form method="POST" action="{{ route("products.store") }}" enctype="multipart/form-data">
             @csrf
             <div class="form-group">

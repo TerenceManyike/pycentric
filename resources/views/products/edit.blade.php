@@ -6,7 +6,7 @@
         {{ __('Edit Product') }}
     </div>
 
-    <div class="card-body">
+    <div class="card-body mobile-font-size">
         <form method="POST" action="{{ route("products.update", [$product->id]) }}" enctype="multipart/form-data">
             @method('PUT')
             @csrf
