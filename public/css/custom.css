@@ -141,7 +141,7 @@ table.dataTable thead .sorting_desc {
 
 @media screen and (max-width: 600px) {
     .mobile-font-size{
-        font-size: 6px !important;
+        font-size: 6px;
     }
 
     .social-icon{
