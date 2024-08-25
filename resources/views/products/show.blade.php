@@ -22,7 +22,7 @@
             </div>
             <div class="col-2 text-center">
                 <a class="btn btn-success" href="{{ route('products.cart.add', $product->id) }}">
-                    {{ __('Add To Cart') }}
+                    {{ __('Add') }}
                 </a>
             </div>
         </div>

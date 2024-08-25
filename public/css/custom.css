@@ -139,9 +139,9 @@ table.dataTable thead .sorting_desc {
     margin: 0 10px 0 10px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     .mobile-font-size{
-        font-size: 8px !important;
+        font-size: 6px !important;
     }
 
     .social-icon{
@@ -149,6 +149,6 @@ table.dataTable thead .sorting_desc {
     }
 
     .btn-success, .btn-danger, .btn-primary, .btn-info, .btn-warning{
-        font-size: 8px !important;
+        font-size: 6px !important;
     }
 }
