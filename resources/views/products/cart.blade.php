@@ -12,7 +12,7 @@
 
     <div class="card-body mobile-font-size">
         @foreach($carts as $cart)
-            <div class="row mb-2 p-2" style="border: .1px solid black; border-radius: 10px;">
+            <div class="row mb-2 p-2" style="border: .1px solid rgb(175, 175, 175); border-radius: 10px;">
                 <div class="col-2 text-center">
                     {{ $cart->product_name }}
                 </div>

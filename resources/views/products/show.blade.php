@@ -7,7 +7,7 @@
     </div>
 
     <div class="card-body mobile-font-size">
-        <div class="row p-2" style="border: .1px solid black; border-radius: 10px;">
+        <div class="row p-2" style="border: .1px solid rgb(175, 175, 175); border-radius: 10px;">
             <div class="col-2 text-center">
                 {{ $product->name }}
             </div>
