@@ -47,7 +47,7 @@
                                 $cart_no = Cart::count();
                             @endphp
 
-                            <a href="{{ route('products.cart') }}" style="font-size: 14px;">
+                            <a href="{{ route('products.cart') }}" style="font-size: 20px;">
                                 ( {{ $cart_no }} ) <i class="fa fa-shopping-cart"></i>
                             </a>
                         </div>
